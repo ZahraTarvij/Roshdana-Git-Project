@@ -16,3 +16,7 @@ input {
 h2 {
     color: purple;
 }
+button {
+    border-radius: 5px;
+    color: purple;
+}
